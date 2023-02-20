@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dor Rozenhak
-- 👀 I’m interested in data science
+- 👀 I’m interested in Software Development
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Big data project
+- 💞️ I’m looking to collaborate on projectד
 - 📫 How to reach me -> dor851997@gmail.com
 
 <!---
